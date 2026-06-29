@@ -1,0 +1,6 @@
+{
+  "name": "Apoteker Zuzun",
+  "description": "Layanan konsultasi obat-obatan virtual yang profesional, berempati, dan aman bersama Apoteker Zuzun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
